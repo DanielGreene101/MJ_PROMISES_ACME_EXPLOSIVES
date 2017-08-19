@@ -1,0 +1,15 @@
+{
+	"catagories" : [
+		"firebomb" {
+			"name" : "gas-bomb",
+			"result" : "boom",
+			"id" : "sale"
+		},
+		"shockbomb" {
+			"name" : "electrocute",
+			"result" : "buzz",
+			"id" : "no-sale"
+			
+		}
+	]
+}

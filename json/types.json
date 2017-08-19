@@ -1,0 +1,12 @@
+{
+	"sales" : {
+		"sale" : {
+			"price" : 9
+		},
+		"no-sale" : {
+			"price" : 400
+			
+		}
+
+	}
+}
