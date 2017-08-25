@@ -1,15 +1,16 @@
 {
-	"catagories" : [
-		"firebomb" {
+	"categories" : [
+		"firebomb" , {
 			"name" : "gas-bomb",
 			"result" : "boom",
 			"id" : "sale"
 		},
-		"shockbomb" {
+		"shockbomb" , {
 			"name" : "electrocute",
 			"result" : "buzz",
 			"id" : "no-sale"
 			
 		}
+
 	]
 }
