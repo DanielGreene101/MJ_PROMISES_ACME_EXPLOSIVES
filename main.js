@@ -6,7 +6,7 @@ function loadInfo(){
 	        var categories = JSON.parse(this.responseText);
 	        console.log("firebomb", categories.categories);
 	        for (var i = 0; i < categories.categories.length; i++){
-	        $("#info").append(`${categories.categories[i].name} `);
+	        $("#info").append(`${categories.categories[i].name}` + "/");
 	    }
 	    }
 	};

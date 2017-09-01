@@ -1,12 +1,41 @@
 {
-	"sales" : {
-		"sale" : {
-			"price" : 9
-		},
-		"no-sale" : {
-			"price" : 400
-			
-		}
+    "types": [
+        {
+            "id": 0,
+            "category": 0,
+            "name": "personal",
+            "description": "Fireworks intended for recreational use during holiday celebrations"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "formal",
+            "description": "Fireworks intended for formal events"
+        },
+        {
+            "id": 0,
+            "category": 0,
+            "name": "crazy",
+            "description": "Fireworks intended for the insane"
+        },
+        {
+            "id": 0,
+            "category": 1,
+            "name": "stupid",
+            "description": "Fireworks that are really dumb"
+        },
+        {
+            "id": 0,
+            "category": 1,
+            "name": "broken",
+            "description": "Fireworks that don't work"
+        },
+        {
+            "id": 0,
+            "category": 1,
+            "name": "loud",
+            "description": "Loud Fireworks"
+        }
 
-	}
+    ]
 }
